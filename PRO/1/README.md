@@ -36,3 +36,7 @@ Vzhľadom na svoju dlhú históriu predstavuje slovo algoritmus veľmi všeobecn
 **Vývojové diagramy**: Vývojové diagramy používajú symboly a diagramy na znázornenie postupnosti krokov v algoritme. Sú užitočné najmä na vizualizáciu toku riadenia a rozhodovania v algoritmoch.
 
 **Programovacie jazyky**: Algoritmy možno priamo implementovať pomocou programovacích jazykov, ako sú Python, Java, C++ atď. Zápis algoritmov v kóde umožňuje ich spustenie na počítačoch.
+
+## Prvky vývojových diagramov
+
+![jj](prvky.png)
