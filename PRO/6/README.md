@@ -25,11 +25,30 @@ Vetvenie je základný prostriedok, ktorý umožňuje riadiť beh programu. Pod�
 ### Vetvenie if (ak)
 
 ```cpp
-if (podmienka) 
-  prikaz;       
+if (podmienka)
+  prikaz;
 ```
 
--	Podmienka je booleovský výraz. Ak je podmienka splnená (má hodnotu true) vykoná sa príkaz. V opačnom prípade program pokračuje ďalej, príkaz nebude vykonaný.
--	Štruktúra“ if ”zabezpečuje vo vetve realizáciu iba jeného príkazu. Niekedy však potrebujeme, aby sa vo vetve vykonalo viacero príkazov. Toto zabezpečíme tzv. blokom (zloženým príkazom) = {}
+- Podmienka je booleovský výraz. Ak je podmienka splnená (má hodnotu true) vykoná sa príkaz. V opačnom prípade program pokračuje ďalej, príkaz nebude vykonaný.
+- Štruktúra“ if ”zabezpečuje vo vetve realizáciu iba jeného príkazu. Niekedy však potrebujeme, aby sa vo vetve vykonalo viacero príkazov. Toto zabezpečíme tzv. blokom (zloženým príkazom) = {}
 
 ![jj](if.png)
+
+### Vetvenie if / else (ak/potom)
+
+```cpp
+if (podmienka)
+  prikaz1;
+else
+  prikaz2;
+```
+
+- Podmienka je booleovský výraz. Ak je podmienka splnená (má hodnotu true) vykoná sa príkaz1. V opačnom prípade sa vykoná príkaz2.
+
+![ano](if-else.png)
+
+#### Ternárny operátor (podmienkový operátor)
+
+- Hlavná podmienka predchádzajúceho programu by sa dala napísať aj pomocou ternárneho operátora.
+- _(podmienka)? prikaz1 : prikaz2;_
+
