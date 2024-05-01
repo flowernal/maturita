@@ -40,3 +40,30 @@ Vzhľadom na svoju dlhú históriu predstavuje slovo algoritmus veľmi všeobecn
 ## Prvky vývojových diagramov
 
 ![jj](prvky.png)
+
+### Význam prvkov
+
+**a** - začiatok algoritmu 
+
+**b** - koniec algoritmu 
+
+**c** - začiatok podprogramu 
+
+**d** - koniec podprogramu 
+
+**e** - jednoduchý príkaz (viac za sebou vytvárajú blok príkazov) 
+
+**f** - čítaj resp. vypíš (aj vytlač) 
+
+**g** - volanie podprogramu 
+
+**h** - riadený cyklus s konkrétnym počtom opakovaní 
+
+**i, j** - spojenie dvoch ciest resp. smerovanie programu 
+
+**k** - odskok na návestie 
+
+**l** - návestie na ktoré smeruje skok 
+
+**m** - rozhodovací blok s jedným vstupom a viacerými výstupmi.
+
