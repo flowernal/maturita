@@ -13,11 +13,18 @@ Algoritmus je konečná postupnosť dobre definovaných inštrukcií na splnenie
 
 Vzhľadom na svoju dlhú históriu predstavuje slovo algoritmus veľmi všeobecný pojem, ktorý nemá jednoznačnú formálnu definíciu. Preto sa jeho súčasná neformálna definícia v informatike obmedzuje vlastnosťami, ktoré musí spĺňať, aby sa dali algoritmy podrobiť vedeckému skúmaniu. Neexistuje jednoznačná zhoda na jedinej správnej formálnej definícií, a preto existuje niekoľko rôznych neformálnych charakterizácií. Niekedy sa tieto definície líšia len zápisom, že niektoré vlastnosti sú spojené, inak nazvané, alebo zahrnuté do samotnej definície pojmu algoritmus.
 
-**Konečnosť** - Výpočet (činnosť vykonávaná podľa algoritmu) vždy skončí po vykonaní konečného počtu krokov,
+**Konečnosť** - Výpočet (činnosť vykonávaná podľa algoritmu) vždy skončí po vykonaní konečného počtu krokov.
+
 **Rezultatívnosť** - Algoritmus vždy vydá po konečnom počte krokov výsledok.
+
 **Determinovanosť** - Postup je zostavený tak, že v každom momente jeho vykonávania je jednoznačne určené, aká činnosť má nasledovať, alebo či sa už postup skončil.
+
 **Elementárnosť** - Postup je zložený z krokov, ktoré sú pre vykonávateľa (počítač, človek) zrozumiteľné. Každý postup môže byť zapísaný viacerými spôsobmi. Pri jeho navrhovaní treba dbať na to, aby jednotlivé inštrukcie boli pre adresáta zrozumiteľné, jednoduché a jednoznačné.
+
 **Efektívnosť** - Výpočet sa uskutočňuje v čo najkratšom čase a s využitím čo najmenšieho množstva prostriedkov (časových i pamäťových). Avšak aj neefektívny algoritmus je algoritmom.
+
 **Všeobecnosť** (hromadnosť) - Algoritmus nerieši jeden konkrétny problém (napr. „ako vypočítať 3×7“), ale rieši všeobecnú triedu podobných problémov (napr. „ako vypočítať súčin dvoch celých čísel“). Existujú však špeciálne algoritmy na určitý problém a niekedy ani nie je možné vytvoriť všeobecný algoritmus. Táto vlastnosť je preto len užitočná a nepokladá sa za nutnú.
+
 **Vstup** - Algoritmus zvyčajne pracuje s nejakými vstupmi, veličinami, ktoré sú mu odovzdané pred začatím jeho vykonávania, alebo v priebehu jeho činnosti. Vstupy majú definované množiny hodnôt, ktoré môžu nadobúdať.
+
 **Výstup** - Algoritmus má aspoň jeden výstup, veličinu, ktorá je v požadovanom vzťahu k zadaným vstupom, a tým tvorí odpoveď na problém, ktorý algoritmus rieši.
