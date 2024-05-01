@@ -85,3 +85,33 @@ _if (!((vek> 12) &&(vek < 65)))_
 | 2        | > >= < <= == != |
 | 3        | &&              |
 | 4        | \|\|            |
+
+# Príklad
+
+Príklad: vytvorte podmienky pre nasledovné výrazy:
+
+- výraz je pravdivý, ak v premennej je uložená jedna z hodnôt 1, 3 alebo 10
+- výraz je pravdivý, ak má premenná hodnotu v rozsahu 3 až 10
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 10;
+
+    if (a == 1 || a == 3 || a == 10) {
+        cout << "Pravda" << endl;
+    } else {
+        cout << "Nepravda" << endl;
+    }
+
+    if (a >= 3 && a <= 10) {
+        cout << "Pravda" << endl;
+    } else {
+        cout << "Nepravda" << endl;
+    }
+
+    return 0;
+}
+```
