@@ -28,3 +28,11 @@ Vzhľadom na svoju dlhú históriu predstavuje slovo algoritmus veľmi všeobecn
 **Vstup** - Algoritmus zvyčajne pracuje s nejakými vstupmi, veličinami, ktoré sú mu odovzdané pred začatím jeho vykonávania, alebo v priebehu jeho činnosti. Vstupy majú definované množiny hodnôt, ktoré môžu nadobúdať.
 
 **Výstup** - Algoritmus má aspoň jeden výstup, veličinu, ktorá je v požadovanom vzťahu k zadaným vstupom, a tým tvorí odpoveď na problém, ktorý algoritmus rieši.
+
+## Možnosti zápisu algoritmov
+
+**Pseudokód**: Je to opis algoritmu na vysokej úrovni, ktorý používa prirodzený jazyk zmiešaný s niektorými programovými konštrukciami. Je ľahko zrozumiteľný a dá sa ľahko preložiť do skutočného kódu.
+
+**Vývojové diagramy**: Vývojové diagramy používajú symboly a diagramy na znázornenie postupnosti krokov v algoritme. Sú užitočné najmä na vizualizáciu toku riadenia a rozhodovania v algoritmoch.
+
+**Programovacie jazyky**: Algoritmy možno priamo implementovať pomocou programovacích jazykov, ako sú Python, Java, C++ atď. Zápis algoritmov v kóde umožňuje ich spustenie na počítačoch.
