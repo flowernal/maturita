@@ -25,12 +25,11 @@ Vetvenie je základný prostriedok, ktorý umožňuje riadiť beh programu. Pod�
 
 ```cpp
 if (podmienka1)
-  prikaz1;
+	prikaz1;
 else if (podmienka2)
-  prikaz2;
-…
+	prikaz2;
 else
-  prikazN;
+	prikazn;
 ```
 
 - Pri viacnásobnom vetvení sa ďalšia podmienka pridáva do zápornej vetvy. Ak je prvá podmienka splnená, vykoná sa prvý príkaz. Pokiaľ prvá podmienka nie je splnená a zároveň je pravdivá druhá podmienka, vykoná sa druhý príkaz, atď.

@@ -1,2 +1,0 @@
-# PRO
-Predmet programovanie.
