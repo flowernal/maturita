@@ -16,24 +16,24 @@ Vo vnútri príkazu if sa môže objaviť ďalší if, nazvaný vnorená podmien
 
 ```cpp
 if (vek >= 18)
-  if (obcan == 'A')
-    cout << "Volit mozete.\n";
-  else
-    cout << "Volit nemozete.\n";
+	if (obcan == 'A')
+		cout << "Volit mozete.\n";
+	else
+		cout << "Volit nemozete.\n";
 else
-  cout << "Volit nemozete.\n";
+	cout << "Volit nemozete.\n";
 ```
 
 **Platnosť aspoň jednej z podmienok** (vstup zdarma má človek buď s vekom pod 12, alebo nad 65)
 
 ```cpp
 if (vek > 12)
-  if (vek > 65)
-    cout << "Mate vstup zdarma.\n";
-  else
-    cout << "Musite zaplatit.\n";
+	if (vek > 65)
+		cout << "Mate vstup zdarma.\n";
+	else
+		cout << "Musite zaplatit.\n";
 else
-  cout << "Mate vstup zdarma.\n";
+	cout << "Mate vstup zdarma.\n";
 ```
 
 ## Logické operátory
@@ -98,20 +98,20 @@ Príklad: vytvorte podmienky pre nasledovné výrazy:
 using namespace std;
 
 int main() {
-    int a = 10;
+	int a = 10;
 
-    if (a == 1 || a == 3 || a == 10) {
-        cout << "Pravda" << endl;
-    } else {
-        cout << "Nepravda" << endl;
-    }
+	if (a == 1 || a == 3 || a == 10) {
+		cout << "Pravda" << endl;
+	} else {
+		cout << "Nepravda" << endl;
+	}
 
-    if (a >= 3 && a <= 10) {
-        cout << "Pravda" << endl;
-    } else {
-        cout << "Nepravda" << endl;
-    }
+	if (a >= 3 && a <= 10) {
+		cout << "Pravda" << endl;
+	} else {
+		cout << "Nepravda" << endl;
+	}
 
-    return 0;
+	return 0;
 }
 ```

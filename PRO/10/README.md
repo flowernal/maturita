@@ -52,15 +52,15 @@ Napíšte pomocou cyklu do while nasledovný program: Zadajte z klávesnice klad
 using namespace std;
 
 int main() {
-    int cislo;
+	int cislo;
 
-    do {
-        cout << "Zadajte kladne cislo: ";
-        cin >> cislo;
-    } while (cislo <= 0);
+	do {
+		cout << "Zadajte kladne cislo: ";
+		cin >> cislo;
+	} while (cislo <= 0);
 
-    cout << "Zadane kladne cislo je: " << cislo << endl;
+	cout << "Zadane kladne cislo je: " << cislo << endl;
 
-    return 0;
+	return 0;
 }
 ```

@@ -50,17 +50,17 @@ Napíšte pomocou cyklu while nasledovný program: Zadajte z klávesnice číslo
 using namespace std;
 
 int main() {
-    int cislo;
+	int cislo;
 
-    cout << "Zadajte cislo: ";
-    cin >> cislo;
+	cout << "Zadajte cislo: ";
+	cin >> cislo;
 
-    while (cislo > 10) {
-        cislo /= 2;
-    }
+	while (cislo > 10) {
+		cislo /= 2;
+	}
 
-    cout << "Koncove cislo: " << cislo << endl;
+	cout << "Koncove cislo: " << cislo << endl;
 
-    return 0;
+	return 0;
 }
 ```

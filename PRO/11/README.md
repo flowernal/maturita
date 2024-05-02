@@ -20,8 +20,8 @@ V C++ poznáme 3 typy cyklov:
 - cyklus so známym počtom opakovaní
 
 ```cpp
-for ( 1. výraz; 2.výraz; 3.výraz )
- 	príkaz;
+for (vyraz1; vyraz2; vyraz3)
+ 	prikaz;
 ```
 
 - 1.výraz - inicializácia riadiacej premennej – cyklus ju urobí iba raz, a to pred prvým vykonaním tela cyklu
@@ -48,10 +48,10 @@ Napíšte pomocou cyklu for nasledovný program: Vypíšte na obrazovku čísla 
 using namespace std;
 
 int main() {
-    for (int i = -10; i <= 10; i++) {
-        cout << i << endl;
-    }
+	for (int i = -10; i <= 10; i++) {
+		cout << i << endl;
+	}
     
-    return 0;
+	return 0;
 }
 ```

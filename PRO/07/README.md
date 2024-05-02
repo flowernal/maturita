@@ -40,13 +40,18 @@ else
 ### Príkaz switch (prepínač)
 
 ```cpp
-switch ( vyraz) // výraz nadobúda konkrétne hodnoty (nie je to boolovský výraz)
-{
- case 1.hodnota : 1.prikaz ; break ;
-case  2.hodnota : 2.prikaz ; break ;  // break ukončí vetvu a celý prepínač
-...
-case  n.hodnota : n.prikaz ; break ;
-default : prikaz ;
+switch (vyraz) { // výraz nadobúda konkrétne hodnoty (nie je to boolovský výraz)
+	case hodnota1:
+		prikaz1;
+		break; // break ukončí vetvu a celý prepínač
+	case hodnota2:
+		prikaz2;
+		break; 
+	case hodnotan:
+		prikazn;
+		break;
+	default:
+		prikaz;
 }
 ```
 

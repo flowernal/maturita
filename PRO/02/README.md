@@ -37,8 +37,8 @@ Príklad: napíšte program, ktorý vypíše na obrazovku nasledovný text:
 
 ```cpp
 int main () {
-  [telo funkcie]
-  return 0; // ukončuje program
+	[telo funkcie]
+	return 0; // ukončuje program
 }
 ```
 
@@ -69,11 +69,11 @@ int main () {
 
 - **Jasnosť a zrozumiteľnosť**: Komentáre môžu objasniť zložité časti kódu. Fungujú ako sprievodca, ktorý pomáha ostatným (a v budúcnosti aj vám) pochopiť účel a funkčnosť rôznych zložiek kódu. Je to užitočné najmä vtedy, keď logika nie je okamžite zrejmá zo samotného kódu.
 
-- V jazyku C++ sa označujú buď // pre jednoriadkový komentár, alebo /_ , _/ pre viacriadkový komentár.
+V jazyku C++ sa označujú buď // pre jednoriadkový komentár, alebo /*, */ pre viacriadkový komentár.
 
 # Príklad
 
-napíšte program, ktorý vypíše na obrazovku nasledovný text:
+Napíšte program, ktorý vypíše na obrazovku nasledovný text:
 
 ```
 ************************************
@@ -88,10 +88,10 @@ napíšte program, ktorý vypíše na obrazovku nasledovný text:
 using namespace std;
 
 int main() {
-  cout<<"************************************";
-  cout<<"           SPS Stara Tura           ";
-  cout<<"************************************";
+	cout<<"************************************";
+	cout<<"           SPS Stara Tura           ";
+	cout<<"************************************";
 
-  return 0;
+	return 0;
 }
 ```
