@@ -90,7 +90,7 @@ void pozdrav() { //funkcia
 - Pre deklaráciu premennej typu odkaz používame symbol &. Premenná typu odkaz musí byť inicializovaná už pri deklarácii.
 
 ```cpp
-int i, &r=i;       // deklarácia premennej i a inicializácia odkazu r na premennú i
+int i, &r=i; // deklarácia premennej i a inicializácia odkazu r na premennú i
 ```
 -	Raz nastavený odkaz  sa už nesmie neskôr meniť, t.j. ak je odkaz napojený na nejakú premennú, nemôže sa neskôr nastaviť na inú premennú. Toto je rozdiel oproti ukazovateľom. 
 -	Na čo vlastne slúžia odkazy ? Odkazy sa používajú výhradne v parametroch funkcií. Tu je automaticky zaručená inicializácia (pri predaní parametrov sa skutočný parameter napojí na formálny parameter typu odkaz).
