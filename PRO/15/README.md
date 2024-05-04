@@ -29,7 +29,7 @@ Trieda je dátový typ. Je to teda šablóna (plán) objektu, ktorá popisuje z 
 Všeobecne vyzerá deklarácia triedy nasledovne:
 
 ```cpp
-class menoTriedy {
+class MenoTriedy {
   // private funkcie a premenne
   public:
   // public funkcie a premenne
