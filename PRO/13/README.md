@@ -35,7 +35,7 @@ int b[2][3]; // dátový typ, identifikátor, [počet riadkov][počet stĺpcov];
 - Prvý prvok poľa má vždy index 0, posledný prvok má index rovný počtu prvkov -1.
 
 ```cpp
-int a [3]; // má prvky a[0], a[1], a[2]
+int a[3]; // má prvky a[0], a[1], a[2]
 ```
 
 ### Uloženie v pamäti
