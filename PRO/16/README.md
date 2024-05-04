@@ -74,7 +74,7 @@ TriedaSKonstruktorom::TriedaSKonstruktorom() {
 }
 ```
 
-**Parametrický konštruktor** - (konštruktor má v tomto prípade parametre, ktoré sú zadané počas volania triedy v maine).
+**Parametrický konštruktor** - (konštruktor má v tomto prípade parametre, ktoré sú zadané počas inicializácie objektu v maine).
 
 ```cpp
 Point(int x_param, int y_param); // v definicii triedy
