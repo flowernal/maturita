@@ -34,7 +34,7 @@ double Kruznica::obvod() {
 
 class Kruh : public Kruznica {
   public:
-    kruh(int pR);
+    Kruh(int pR);
     double obsah();
 };
 
