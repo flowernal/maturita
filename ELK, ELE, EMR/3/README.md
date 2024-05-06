@@ -19,3 +19,13 @@ NPN
 PNP
 
 <img src="pnp.png" alt="pnp" width="100"/>
+
+## Spôsoby zapojenia bipolárnych tranzistorov
+Vždy je jedna z týchto elektród spoločná pre vstup aj výstup. Poznáme:
+- So spoločnou bázou (SB)
+- So spoločným emitorom (SE)
+- So spoločným kolektorom (SC)
+
+## Charakteristiky tranzistora v zapojení SE
+
+![va](va.jpg)
