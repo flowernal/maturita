@@ -12,8 +12,9 @@ Bipolárne tranzistory, spôsoby zapojenia bipolárnych tranzistorov, charakteri
 - Vnútorná vrstva, ktorá má opačný typ nevlastnej vodivosti ako vonkajšie vrstvy, sa nazýva **báza** (B), vonkajšie vrstvy sú **emitor** (E) a **kolektor** (C). Vždy je jedna z týchto elektród spoločná pre vstup aj výstup. (Zapojenia SE, SB a SC).
 - Podľa usporiadania vrstiev bipolárne tranzistory delíme na NPN a PNP
 
-NPN
 <img src="npn.png" alt="npn" width="100"/>
+NPN
 
 <img src="pnp.png" alt="pnp" width="100"/>
 PNP
+
