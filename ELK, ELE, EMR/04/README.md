@@ -11,8 +11,8 @@ Striedavé signály sú signály, ktoré sa periodicky menia v čase a majú obv
 ### Typy striedavých signálov
 
 1. **Sinusoidálny signál:**
-   - Sinusoidálny signál je ideálny striedavý signál, ktorý sa matematicky popisuje ako $v(t) = V_m \sin(\omega t + \phi)$, kde:
-     - $V_m$ je maximálna amplitúda,
+   - Sinusoidálny signál je ideálny striedavý signál, ktorý sa matematicky popisuje ako $u(t) = U_m \sin(\omega t + \phi)$, kde:
+     - $U_m$ je maximálna amplitúda,
      - $\omega$ je uhlová frekvencia (v radiantoch za sekundu),
      - $t$ je čas,
      - $\phi$ je fázový posun.
