@@ -17,8 +17,8 @@ Striedavé signály sú signály, ktoré sa periodicky menia v čase a majú obv
      - $t$ je čas,
      - $\phi$ je fázový posun.
 
-2. **Kozinusový signál:**
-   - Kozinusový signál sa podobá sinusoidálnemu signálu, ale má posunutú fázu o $\frac{\pi}{2}$.
+2. **Kosínusový signál:**
+   - Kosínusový signál sa podobá sinusoidálnemu signálu, ale má posunutú fázu o $\frac{\pi}{2}$.
 
 3. **Trojuholníkový signál:**
    - Trojuholníkový signál sa mení lineárne medzi dvoma hodnotami s rovnomernou zmenou amplitúdy.
