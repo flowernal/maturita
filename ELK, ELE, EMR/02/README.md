@@ -9,6 +9,7 @@ Elektrický náboj, elektrické pole, elektrický potenciál a elektrické napä
 ### Elektrický náboj:
 
 - Elektrický náboj je fyzikálna vlastnosť častíc, ktorá spôsobuje elektromagnetické interakcie. Má dva typy: kladný (+) a záporný (-).
+- 2 nosiče náboja: elektróny a diery
 - Jednotkou elektrického náboja je coulomb (C).
 
 ### Elektrické pole:
