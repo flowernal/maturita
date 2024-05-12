@@ -14,14 +14,6 @@ Vlastná a nevlastná vodivosť polovodičov, princíp P-N priechodu, diódy pre
 
 ## Nevlastná vodivosť
 
-### Typu N
-
-- D - donor - označenie atómu prímesi
-- V kryštálovej mriežke 4-mocného prvku nahradíme niektoré jeho atómy atómami 5-mocného prvku
-- Na vytvorenie kovalentnej väzby v kryštálovej mriežke sa zúčastnia iba 4 valenčné elektróny donora
-- 5\. elektrón, ktorý sa nezúčastňuje väzby je voľne viazaný k donorovi
-- Polovodiče, ktoré obsahujú 5-mocné prímest sa nazývajú **polovodiče typu N**
-
 ### Typu P
 
 - A - akceptor - označenie atómu prímesi
@@ -30,6 +22,14 @@ Vlastná a nevlastná vodivosť polovodičov, princíp P-N priechodu, diódy pre
 - Voľné miest ovo väzbe výtvorí dieru, ktorá má kladný náboj
 - Na vytvorenie prúdu sa využíva zdanlivý pohyb kladných nábojov = dier
 - Polovodiče, ktoré obsahujú 3-mocné prímest sa nazývajú **polovodiče typu P**
+
+### Typu N
+
+- D - donor - označenie atómu prímesi
+- V kryštálovej mriežke 4-mocného prvku nahradíme niektoré jeho atómy atómami 5-mocného prvku
+- Na vytvorenie kovalentnej väzby v kryštálovej mriežke sa zúčastnia iba 4 valenčné elektróny donora
+- 5\. elektrón, ktorý sa nezúčastňuje väzby je voľne viazaný k donorovi
+- Polovodiče, ktoré obsahujú 5-mocné prímest sa nazývajú **polovodiče typu N**
 
 ## PN priechod
 
