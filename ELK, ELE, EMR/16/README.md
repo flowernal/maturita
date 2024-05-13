@@ -9,7 +9,8 @@ Sieťové napájacie zdroje a ich využitie, bloková schéma sieťového napáj
 - Elektronický obvod, ktorého úlohou je zabezpečiť elektrickú energiu požadovaných parametrov pre napájaný obvod, obvykle premenou elektrickej energie z iného zdroja
 - Zdroje, ktoré čerpajú energiu z bežnej elektrickej siete nazývame **sieťové**
 - Ich vstupom je striedavé napätie s $f = 50 - 60\ Hz$ v rozsahu $110 - 230\ V$
-- Konštruujú sa buď s bežným transformátorom, usmerňovačom a lineárnym stabilizátor, alebo ako spínacie, ich výstupom je jednosmerné napätie
+- Konštruujú sa buď s bežným transformátorom, usmerňovačom a lineárnym stabilizátor, alebo ako spínacie
+- Ich výstupom je jednosmerné napätie
 - Tiež sa označujú ako **lineárne** - sieťové napätie sa dodáva priamo do transformátora
 
 ### Rozdelenie
