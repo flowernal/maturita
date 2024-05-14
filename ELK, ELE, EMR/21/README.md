@@ -18,7 +18,7 @@ Elektromagnetické vlnenie a elektromagnetické pole, pojmy vlnová dĺžka, fre
 
 ### Pojmy vlnová dĺžka, frekvencia a rýchlosť šírenia a ich vzájomný vzťah
 
-- **Vlnová dĺžka ($\lambda$)**: Je vzdialenosť medzi dvomi blízkymi bodmi na rovnakej fáze vlny. Vyjadruje sa v metroch (m).
+- **Vlnová dĺžka ($\lambda$)**: Je vzdialenosť medzi opakujúcimi sa periódami vlnenia.
 
 - **Frekvencia ($f$)**: Je počet úplných cyklov vlnenia za jednu sekundu. Vyjadruje sa v hertzoch (Hz).
 
