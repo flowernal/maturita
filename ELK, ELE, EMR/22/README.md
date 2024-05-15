@@ -30,7 +30,7 @@ Bloková schéma sériového prenosu informácií, funkcie jednotlivých častí
 - Príslušný vstup sa vyberá adresovým signálom
 - Má:
   - **N** dátových vstupov
-  - **M** adresových výstupov
+  - **M** adresových vstupov
   - **EN (S)** - uvoľňovací vstup (enable) slúži na adresáciu celého multiplexora, aby multiplexor pracoval, musí byť aktivovaný úrovňou log0
 - Počet adresových vstupov **M** musí byť taký, aby každý z dátových vstupov sa dal jednoznačne adresovať => každý dátový vstup musí mať svoju adresu
 - \*\*Ak je počet dátových vstupov N, musí platiť $N \le 2^M$
