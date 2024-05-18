@@ -1,5 +1,6 @@
+## **Zadanie**
 
-##základné požiadavky na prevádzku serverov, špeciálne varianty hardwaru pre servery, pojmy hot plug, hot swap, popíšte typy RAID a UPS
+Základné požiadavky na prevádzku serverov, špeciálne varianty hardwaru pre servery, pojmy hot plug, hot swap, popíšte typy RAID a UPS
 
 
 ## **Sieťové a serverové technológie**
