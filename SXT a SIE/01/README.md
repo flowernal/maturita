@@ -20,3 +20,5 @@ Základné požiadavky na prevádzku serverov, špeciálne varianty hardwaru pre
 4. **Popis RAID a typy UPS**:
     - **RAID (Redundant Array of Independent Disks)**: Je to technológia, ktorá umožňuje kombinovať viac pevných diskov do jednej logického celku za účelom zvýšenia rýchlosti, odolnosti voči chybám alebo oboch. Existuje niekoľko typov RAID, ako sú RAID 0, RAID 1, RAID 5, RAID 10, ktoré poskytujú rôzne úrovne výkonu a ochrany údajov.
     - **UPS (Uninterruptible Power Supply)**: poskytujú záložnú energiu v prípade výpadku elektrickej energie. Existujú rôzne typy UPS, vrátane Online UPS, Standby UPS a Line-interactive UPS, ktoré sa líšia v tom, ako rýchlo a spoľahlivo reagujú na výpadok elektrickej energie a akú úroveň ochrany poskytujú.
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
