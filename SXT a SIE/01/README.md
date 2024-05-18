@@ -1,9 +1,9 @@
-## **Zadanie**
+# **Zadanie**
 
 Základné požiadavky na prevádzku serverov, špeciálne varianty hardwaru pre servery, pojmy hot plug, hot swap, popíšte typy RAID a UPS
 
 
-## **Sieťové a serverové technológie**
+# **Sieťové a serverové technológie**
 
 1. **Základné požiadavky na prevádzku servera**:
     - **Hardware**: Kvalitný hardvér je kľúčový. To zahŕňa procesor(y), pamäť (RAM), úložisko (HDD alebo SSD), sieťové rozhrania a prípadne ďalšie špecializované zariadenia.
