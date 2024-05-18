@@ -33,7 +33,11 @@
 
 **RAID 0**
 
-![Untitled](raid0.png)
+![raid0.png](raid0.png)
+
+**RAID 1**
+
+![raid1.png](raid1.png)
 
 ### UPS **(Uninterruptible Power Supply)**
 
