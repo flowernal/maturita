@@ -53,7 +53,7 @@
 
 **RAID 1+0**
 
-![raid1+0](raid10.png)
+![raid1+0](raid10.png | width=100)
 
 ### UPS **(Uninterruptible Power Supply)**
 
