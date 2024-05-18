@@ -1,2 +1,0 @@
-# SIE
-Predmet sieťové technológie.
