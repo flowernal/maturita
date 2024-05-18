@@ -46,7 +46,7 @@ int main () {
 
 **#include** - Inštrukcia pre preprocesor, Za #include nasleduje názov knižného súboru v zátvorkách <>
 
-**Menný priestor** - Príkaz using namespace std; hovorí počítaču, že pred každé meno bez menného priestoru si má pridať std::
+**Menný priestor** - Príkaz using namespace std; zahrnie v preprocesore pre aktuálny scope všetky elementy z menného priestora std
 
 **Funkcie** – okrem hlavnej funkcie main môže program obsahovať ďalšie, vedľajšie, funkcie, ktoré sú umiestnené buď pred main, alebo za mainom, kedy je potrebné pridať hlavičku funkcie pred main. Tieto funkcie pomáhajú rozdeliť program na viacero menších podprogramov pre jednoduchšie čítanie programu a zároveň dokážu zmenšiť celkovú veľkosť programu pri opakovanom volaní funkcie.
 

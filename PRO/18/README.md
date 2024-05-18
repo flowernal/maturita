@@ -33,7 +33,7 @@ string pridaj(string a, string b) {
 }
 ```
 
-Ak volaná funkcia bude `pridaj( 5, 12 )`, použije sa funkcia `pridaj(int x, int y)`, v prípade volanej funkcie `pridaj( Jano, Konečný )`, použije sa `funkcia pridaj(string a, string b)`.
+Ak volaná funkcia bude `pridaj(5, 12)`, použije sa funkcia `pridaj(int x, int y)`, v prípade volanej funkcie `pridaj("Jano", "Konečný")`, použije sa `funkcia pridaj(string a, string b)`.
 
 # Príklad
 
@@ -43,29 +43,32 @@ Napíšte príklad polymorfizmu funkcie obvod pre objekt štvorec a funkcie obvo
 #include <iostream>
 using namespace std;
 
-class Stvorec {
-    private:
-        double a;
-    public:
-        Stvorec(double pA) {
-            a = pA;
-        }
-        double obvod() {
-            return 4 * a;
-        }
+class Tvar {
+public:
+    virtual double obvod() const = 0;
+    virtual ~Tvar() = default;
 };
 
-class Obdlznik {
-    private:
-        double a, b;
-    public:
-        Obdlznik(double pA, double pB) {
-            a = pA;
-            b = pB;
-        }
-        double obvod() {
-            return 2 * (a + b);
-        }
+class Stvorec : public Tvar {
+private:
+    double _a;
+public:
+    Stvorec(double a) : _a(a) {}
+    
+    double obvod() const override {
+        return 4 * _a;
+    }
+};
+
+class Obdlznik : public Tvar {
+private:
+    double _a, _b;
+public:
+    Obdlznik(double a, double b) : _a(a), _b(b) {}
+
+    double obvod() const override {
+        return 2 * (_a + _b);
+    }
 };
 
 int main() {
