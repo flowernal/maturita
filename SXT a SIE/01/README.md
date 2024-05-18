@@ -64,26 +64,31 @@
     - **Bežné použitie:** Osobné počítače, malé kancelárie/domáce kancelárie.
     - **Výhody:** Nákladovo efektívny, jednoduchý dizajn.
     - **Nevýhody:** Dlhý čas prepnutia (zvyčajne 5-20 milisekúnd) môže byť nevhodný pre citlivé zariadenia.
+      
 2. **Line-Interactive UPS:**
     - **Funkcia:** Poskytuje regulované a záložné napájanie, s možnosťou korekcie menších výkyvov napätia (podpätie a prepätie) bez prepnutia na batériu.
     - **Bežné použitie:** Malé a stredné podniky, sieťové zariadenia.
     - **Výhody:** Lepšia regulácia napätia, vyššia efektivita a mierne vyššie náklady ako záložný UPS.
     - **Nevýhody:** Stále má krátky čas prepnutia, ale všeobecne zlepšený v porovnaní so záložným UPS.
+      
 3. **Online (Double-Conversion) UPS:**
     - **Funkcia:** Poskytuje nepretržité napájanie z batérie, aj keď je hlavné napájanie prítomné, tým, že neustále konvertuje prichádzajúce AC napájanie na DC a späť na AC.
     - **Bežné použitie:** Dátové centrá, kritické systémy a citlivé zariadenia.
     - **Výhody:** Nulový čas prepnutia, poskytuje najvyššiu úroveň ochrany napájania.
     - **Nevýhody:** Vyššie náklady, vyššia spotreba energie a väčšia tvorba tepla.
+      
 4. **Ferroresonant UPS (Ferrorezonančné UPS):**
     - **Funkcia:** Využíva **ferrorezonančný transformátor** na poskytovanie regulovaného a záložného napájania s možnosťou zvládnuť významné výkyvy napájania.
     - **Bežné použitie:** Priemyselné aplikácie, prostredia s nekvalitným napájaním.
     - **Výhody:** Robustný, môže zvládnuť vážne výkyvy napájania.
     - **Nevýhody:** Veľký, menej efektívny a môže generovať značné množstvo tepla.
+      
 5. **Delta Conversion Online UPS:**
     - **Funkcia:** Podobný **Online UPS**, ale efektívnejší, konvertuje len časť prichádzajúceho napájania na DC a späť na AC, čím znižuje straty energie.
     - **Bežné použitie:** Veľké dátové centrá a kritická infraštruktúra s vysokými požiadavkami na efektivitu.
     - **Výhody:** Vysoká efektivita, nepretržitá ochrana napájania.
     - **Nevýhody:** Vysoké náklady, komplexný dizajn.
+      
 6. **Hybrid (Double Conversion on Demand) UPS:**
     - **Funkcia:** Prevádzkuje sa primárne v režime vysokej efektivity podobnom **Line-Interactive** UPS a prepne sa do režimu **Online UPS** len vtedy, keď to vyžadujú podmienky napájania.
     - **Bežné použitie:** Situácie, kde je dôležitá energetická efektivita, ale je tiež potrebná vysoká ochrana, keď je to potrebné.
