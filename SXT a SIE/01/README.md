@@ -53,7 +53,7 @@
 
 **RAID 1+0**
 
-<img src="https://github.com/flowernal/maturita/blob/main/SXT%20a%20SIE/01/raid100.png" alt="raid1+0" width="350">
+<img src="https://github.com/flowernal/maturita/blob/main/SXT%20a%20SIE/01/raid10.png" alt="raid1+0" width="350">
 
 
 ### UPS **(Uninterruptible Power Supply)**
