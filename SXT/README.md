@@ -1,2 +1,0 @@
-# SXT
-Predmet serverové technológie.
