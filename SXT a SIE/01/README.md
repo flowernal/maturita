@@ -5,7 +5,7 @@
 3. pojmy **hot plug, hot swap**
 4. popíšte **typy RAID a UPS**
 
-# **Sieťové a serverové technológie**
+# **Vypracovanie**
 
 ## **Základné požiadavky na prevádzku servera**
 
