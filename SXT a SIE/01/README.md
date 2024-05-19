@@ -5,7 +5,7 @@
 3. pojmy **hot plug, hot swap**
 4. popíšte **typy RAID a UPS**
 
-# **Sieťové a serverové technológie**
+# **Vypracovanie**
 
 ## **Základné požiadavky na prevádzku servera**
 
@@ -94,4 +94,4 @@
     - **Funkcia:** Prevádzkuje sa primárne v režime vysokej efektivity podobnom **Line-Interactive** UPS a prepne sa do režimu **Online UPS** len vtedy, keď to vyžadujú podmienky napájania.
     - **Bežné použitie:** Situácie, kde je dôležitá energetická efektivita, ale je tiež potrebná vysoká ochrana, keď je to potrebné.
     - **Výhody:** Vyvažuje efektivitu a ochranu, môže ponúknuť značné úspory energie.
-    - **Nevýhody:** Nemusí poskytovať nepretržitú ochranu dvojitou konverziou, potenciálne vyššie počiatočné náklady.
+    - **Nevýhody:** Nemusí poskytovať nepretržitú ochranu dvojitou konverziou, potenciálne vyššie počiatočné náklady. 
