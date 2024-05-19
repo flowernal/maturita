@@ -6,6 +6,7 @@ VLAN (Virtual Local Area Network) siete predstavujú dôležitý koncept v oblas
 
 ## Využitie
 VLAN je koncept v počítačových sieťach, ktorý umožňuje rozdelenie jednej fyzickej siete na viacero logických sietí. Tieto logické siete sú izolované jedna od druhej, čo znamená, že zariadenia v jednej VLAN nemôžu komunikovať s zariadeniami v inej VLAN bez smerovača alebo prepínača. 
+![Alt text](VLAN.png "priklad VLAN")
 
 ## Výhody
 - **Bezpečnosť** - VLAN môže byť veľmi užitočná v situáciách, kde je potrebné oddeliť typy prevádzky, napríklad v kancelárskej budove môžeme vytvoriť samostatnú VLAN pre rôzne tímy. Vďaka tomuto rozdeleniu budú citlivé dáta v jednej sieti oddelené od zvyšku siete. 
