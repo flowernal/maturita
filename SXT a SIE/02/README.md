@@ -1,5 +1,3 @@
-# 02
-
 # Zadanie
 
 - činnosť a úlohy služieb DHCP, DNS a mail
