@@ -62,75 +62,75 @@ Aplikačná vrstva je vrstva bežne používaná väčšinou programov pracujúc
 Kľúčom k dobrému návrhu siete je jej hierarchický dizajn siete.
 
 **Hierarchická sieť:**
-•	Ohraničuje veľkosť a rozsah kolíznych, broadcastových a chybových domén
-•	Zjednodušuje činnosť rôznych mechanizmov, ktoré pracujú v jednotlivých oblastiach sietí
-•	Dovoľuje efektívne prideľovať IP adresy a ľahko ich sumarizovať v smerovacích protokoloch
-•	Sprehľadňuje toky dát
-•	Jasne oddeľuje funkčné bloky pre L2 a L3
+- Ohraničuje veľkosť a rozsah kolíznych, broadcastových a chybových domén
+- Zjednodušuje činnosť rôznych mechanizmov, ktoré pracujú v jednotlivých oblastiach sietí
+- Dovoľuje efektívne prideľovať IP adresy a ľahko ich sumarizovať v smerovacích protokoloch
+- Sprehľadňuje toky dát
+- Jasne oddeľuje funkčné bloky pre L2 a L3
 
 ![alt text](siet.png)
 
 Rozdelenie siete do blokov (vrstiev) s definovanými funkciami: Core, Distribution, Access
 
 **Funkcie Prístupovej (ACCESS) vrstvy:**
-•	Poskytuje prostriedky (Prepínače, huby, prístupové body (AP)) na pripájanie zariadení používateľov (PC, telefóny, tlačiarne a pod.) do siete
-•	Riadi kto môže komunikovať cez sieť
+- Poskytuje prostriedky (Prepínače, huby, prístupové body (AP)) na pripájanie zariadení používateľov (PC, telefóny, tlačiarne a pod.) do siete
+- Riadi kto môže komunikovať cez sieť
 
 **Funkcie Distribučnej (DISTRIBUTION) vrstvy**
-•	Agreguje dáta z prístupovej vrstvy
-•	Definuje subsiete a smerovanie medzi nimi
-•	Riadi tok dát
-•	Smerovacie a ACL politiky
-•	Definuje Broadcast L2 domény
-•	Musí byť vysokorýchlostná aredundantná
+- Agreguje dáta z prístupovej vrstvy
+- Definuje subsiete a smerovanie medzi nimi
+- Riadi tok dát
+- Smerovacie a ACL politiky
+- Definuje Broadcast L2 domény
+- Musí byť vysokorýchlostná aredundantná
 
 **Funkcie Core vrstvy:**
-•	Tvorí vysokorýchlostnú chrbticu siete
-•	Musí zvládať spracovávať veľké objemy dát a veľmi rýchlo
-•	Agreguje dáta od distribučných prepínačov
-•	Musí byť vysokodostupná a redundantná
-•	Pripája „sieť“ k Internetu a jeho zdrojom
+- Tvorí vysokorýchlostnú chrbticu siete
+- Musí zvládať spracovávať veľké objemy dát a veľmi rýchlo
+- Agreguje dáta od distribučných prepínačov
+- Musí byť vysokodostupná a redundantná
+- Pripája „sieť“ k Internetu a jeho zdrojom
 
 
 **Vlastnosti prepínačov pre Access layer**
-•	**Port security**
-	    Rozhoduje kto sa môže pripojiť
-•	**VLANs**
-	    Virtualizácia LAN
-•	**Rýchlosť (Speed**)
-	    Fast Ethernet (100Mbps) or Gigabit.
-•	**Power over Ethernet (PoE)**
-	    Drahé ale efektívne a efektné 
-•	**Link aggregation**
-	    Pre uplinky
-•	**Quality of service (QoS)**
-	    Pre multimédia ak je problém s oneskorením kapacitou
+- **Port security**
+	- Rozhoduje kto sa môže pripojiť
+- **VLANs**
+	- Virtualizácia LAN
+- **Rýchlosť (Speed**)
+	- Fast Ethernet (100Mbps) or Gigabit.
+- **Power over Ethernet (PoE)**
+	- Drahé ale efektívne a efektné 
+- **Link aggregation**
+	- Pre uplinky
+- **Quality of service (QoS)**
+	- Pre multimédia ak je problém s oneskorením kapacitou
 
 **Vlastnosti prepínačov pre Distribution Layer**
-•	**Podpora MultiLayer**
-	    Aspoň L2/L3 – smerovanie medzi VLANs
-•	**Vysoká prepínacia rýchlosť**
-	    processing
-•	**Rýchlosť portov Gbps or 10Gbps ports**
-•	**Redundancia**
-•	**Bezpečnosť**
-	    Access control lists (ACL)
-•	**Agregácia Liniek**
-•	**Quality of service**
-•	**Dostupnosť**
-	    Zálohovanie napájacích zdrojov (Hot swappable)
+- **Podpora MultiLayer**
+	- Aspoň L2/L3 – smerovanie medzi VLANs
+- **Vysoká prepínacia rýchlosť**
+	- processing
+- **Rýchlosť portov Gbps or 10Gbps ports**
+- **Redundancia**
+- **Bezpečnosť**
+	- Access control lists (ACL)
+- **Agregácia Liniek**
+- **Quality of service**
+- **Dostupnosť**
+	- Zálohovanie napájacích zdrojov (Hot swappable)
 
 **Vlastnosti prepínačov pre Core Layer**
-•	**Podpora Multilayer for Network layer (3) - routing**
-•	**Vysoká prepínacia aj procesná rýchlosť**
-•	**Vysoká rýchlosť portov**
-	    1Gbps, 10Gbps
-•	**Redundancia**
-•	**Agregácia Liniek**
-•	**Quality of service**
-•	**Dostupnosť**
-	    Zálohovanie napájacích zdrojov (Hot swappable)?
-•	**Treba sa vyhnúť akýmkoľvek spomaľovacím činnostiam.**
+- **Podpora Multilayer for Network layer (3) - routing**
+- **Vysoká prepínacia aj procesná rýchlosť**
+- **Vysoká rýchlosť portov**
+	- 1Gbps, 10Gbps
+- **Redundancia**
+- **Agregácia Liniek**
+- **Quality of service**
+- **Dostupnosť**
+	- Zálohovanie napájacích zdrojov (Hot swappable)?
+- **Treba sa vyhnúť akýmkoľvek spomaľovacím činnostiam.**
 
 
 
