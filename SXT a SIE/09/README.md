@@ -1,5 +1,3 @@
-# 09
-
 # Zadanie
 
 - delenie útokov na generické siete
