@@ -1,5 +1,3 @@
-# 11
-
 # Zadanie
 
 - rozdiely medzi komerčnou licenciou, OEM a bundle
