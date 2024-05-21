@@ -44,6 +44,7 @@ Z pohľadu komunikácie je určite dobré využívať šifrovanú komunikáciu H
 DDoS útok záplavou požiadaviek preťaží webový server s väčším množstvom požiadaviek, než aké môže zvládnuť. To preťaží server tak, že následne nie je schopný reagovať na požiadavky bežných používateľov, výrazne spomalí webovú stránku alebo ju spraví nedostupnou.
 
 ![Untitled](09%20d14daed486e14d14bc0f469b41408dd3/Untitled%202.png)
+<img src="https://github.com/flowernal/maturita/blob/main/SXT%20a%20SIE/09/09%20d14daed486e14d14bc0f469b41408dd3/Untitled%201.png" width="350">
 
 ## Pojmy Botnet, Social engineering a phishing
 
