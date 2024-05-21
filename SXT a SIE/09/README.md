@@ -23,7 +23,6 @@ Keď sa malware dostane do počítača, môže spôsobiť niekoľko druhov škô
 
 Pomocou tejto metódy môžu hackeri oklamať DNS server ľubovoľného počítačač, aby považoval falošné dáta za reálne a overené. Tieto falošné informácie sú uložené vo vyrovnávacej pamäti po určitú dobu, za túto dobu hacker prepíše DNS odpovede z IP adries. Výsledkom je, že používatelia, ktorí chcú pristupovať na danú webovú stránku, sťahujú vírusy namiesto originálneho obsahu.
 
-![Untitled](09%20d14daed486e14d14bc0f469b41408dd3/Untitled.png)
 <img src="https://github.com/flowernal/maturita/blob/main/SXT%20a%20SIE/09/09%20d14daed486e14d14bc0f469b41408dd3/Untitled.png" width="500">
 
 ## Princíp útoku MitM a DoS
@@ -44,7 +43,6 @@ Z pohľadu komunikácie je určite dobré využívať šifrovanú komunikáciu H
 
 DDoS útok záplavou požiadaviek preťaží webový server s väčším množstvom požiadaviek, než aké môže zvládnuť. To preťaží server tak, že následne nie je schopný reagovať na požiadavky bežných používateľov, výrazne spomalí webovú stránku alebo ju spraví nedostupnou.
 
-![Untitled](09%20d14daed486e14d14bc0f469b41408dd3/Untitled%202.png)
 <img src="https://github.com/flowernal/maturita/blob/main/SXT%20a%20SIE/09/09%20d14daed486e14d14bc0f469b41408dd3/Untitled%202.png" width="500">
 
 ## Pojmy Botnet, Social engineering a phishing
@@ -55,7 +53,6 @@ Botnet je sieť počítačov alebo zariadení, ktoré boli infikované škodliv�
 
 Pre zaujímavosť najväčším botnetom doteraz bol Conficker, ktorý ovládal 10,5 milióna počítačov.
 
-![Untitled](09%20d14daed486e14d14bc0f469b41408dd3/Untitled%203.png)
 <img src="https://github.com/flowernal/maturita/blob/main/SXT%20a%20SIE/09/09%20d14daed486e14d14bc0f469b41408dd3/Untitled%203.png" width="500">
 
 ### Social engineering
