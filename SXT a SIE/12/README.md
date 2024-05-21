@@ -1,5 +1,3 @@
-# 12
-
 # Zadanie
 
 - princíp tlače, parametre a vlastnosti **ihličkových tlačiarní**
