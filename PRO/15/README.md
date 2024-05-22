@@ -62,6 +62,8 @@ Obecne všetky OOP jazyky, vrátanie C++ zdieľajú tri definované vlastnosti:
 
 3. **dedičnosť (inheritance)** - proces vytvárania odvodenej triedy
 
+4. **abstrakcia (abstraction)** - slúži na zjednodušenie komplexnosti tým, že umožňuje vytvárať zjednodušené modely reálnych objektov a systémov
+
 ## Rozdiel medzi public a private
 
 - Členské premenné a funkcie tried sú štandardne private. Všetky členské premenné a funkcie tried zadeklarované za kľúčovým slovom `public:` sú verejné.
