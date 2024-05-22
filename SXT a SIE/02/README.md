@@ -10,7 +10,7 @@
 
 ## Činnosť a úlohy DHCP, DNS a mail
 
-### DHPC (Dynamic Host Configuration Protocol)
+### DHCP (Dynamic Host Configuration Protocol)
 
 - Hlavnou úlohou DHCP je priraďovanie IP adries a konfiguračných parametrov zariadeniam.
 
