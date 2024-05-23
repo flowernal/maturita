@@ -43,6 +43,7 @@ Classless routing protokoly, ako sú RIP v2, OSPF, EIGRP a BGP, umožňujú flex
 IGRP a EIGRP sú obidva proprietárne protokoly od Cisco, pričom EIGRP je vylepšená verzia IGRP s rýchlejšou konvergenciou a podporou modernejších technológií ako VLSM a CIDR. 
 
 **IGRP**:
+
     - Typ protokolu: Distance-vector.
     - Konvergencia: Pomalšia.
     - Smerovacie metriky: Šírka pásma, oneskorenie, spoľahlivosť, zaťaženie, MTU.
@@ -52,6 +53,7 @@ IGRP a EIGRP sú obidva proprietárne protokoly od Cisco, pričom EIGRP je vylep
     - Štandardizácia: Proprietárny protokol Cisco.
 
 **EIGRP**:
+
     - Typ protokolu: Hybridný (kombinácia distance-vector a link-state).
     - Konvergencia: Rýchla.
     - Smerovacie metriky: Šírka pásma, oneskorenie, spoľahlivosť, zaťaženie, MTU.
