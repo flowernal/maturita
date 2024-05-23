@@ -4,13 +4,13 @@ vlastnosti operačného systému používajúceho Linux, príklady príkazov pre
 
 ## Vlastnosti operačného systému používajúceho Linux
 Linux je operačný systém, ktorý je známy svojou stabilitou, bezpečnosťou, a flexibilitou. Je to open-source systém, čo znamená, že jeho zdrojový kód je voľne dostupný a môže byť upravovaný a distribuovaný. Hlavné vlastnosti Linuxu zahŕňajú:
-    1. Multitasking: Schopnosť vykonávať viacero úloh súčasne.
-    2. Multiuser: Podpora viacerých užívateľov, ktorí môžu súčasne používať systém.
-    3. Networking: Silná podpora pre sieťové operácie a internetové služby.
-    4. Bezpečnosť: Robustné bezpečnostné mechanizmy vrátane užívateľských práv a oprávnení, šifrovania a firewallov.
-    5. Prenosnosť: Možnosť spustenia na rôznych hardvérových platformách.
-    6. Výkonnosť: Efektívne využívanie systémových prostriedkov.
-    7. Customizability: Vysoká miera prispôsobiteľnosti a konfigurácie.
+- 1\. Multitasking: Schopnosť vykonávať viacero úloh súčasne.
+- 2\. Multiuser: Podpora viacerých užívateľov, ktorí môžu súčasne používať systém.
+- 3\. Networking: Silná podpora pre sieťové operácie a internetové služby.
+- 4\. Bezpečnosť: Robustné bezpečnostné mechanizmy vrátane užívateľských práv a oprávnení, šifrovania a firewallov.
+- 5\. Prenosnosť: Možnosť spustenia na rôznych hardvérových platformách.
+- 6\. Výkonnosť: Efektívne využívanie systémových prostriedkov.
+- 7\. Customizability: Vysoká miera prispôsobiteľnosti a konfigurácie.
 
 ## Príklady príkazov pre prácu v systéme Linux
     - ls - Zobrazenie obsahu priečinka.
