@@ -8,11 +8,13 @@
 
 ## Procesory x86
 
+Procesory architektúry x86 sú mikroprocesory pôvodne navrhnuté firmou Intel, ktoré používajú komplexnú inštrukčnú sadu (CISC). Táto architektúra sa vyznačuje kompatibilitou so staršími procesormi, čo umožňuje spúšťanie starších softvérov na novších zariadeniach, a je široko používaná v osobných počítačoch, notebookoch a serveroch.
+
 ### Parametre
 
 - **Počet jadier a vlákien**:
-  - *Jadrá*: Fyzické jednotky, ktoré vykonávajú úlohy.
-  - *Vlákna*: Logické jednotky, ktoré môžu spracovávať paralelné úlohy na každom jadre (Hyper-Threading).
+  - _Jadrá_: Fyzické jednotky, ktoré vykonávajú úlohy.
+  - _Vlákna_: Logické jednotky, ktoré môžu spracovávať paralelné úlohy na každom jadre (Hyper-Threading).
 - **Taktovacia frekvencia**:
   - Meraná v GHz (gigahertz).
   - Určuje rýchlosť spracovania inštrukcií.
@@ -67,13 +69,17 @@
 
 - Open-source architektúra.
 - Používaná vo výskume a v niektorých embedded systémoch.
-  
+
 **SPARC** (Scalable Processor Architecture):
 
 - Používané v serveroch a superpočítačoch, vyvinuté spoločnosťou Sun Microsystems.
 - Oracle SPARC M8: Používané v high-end serverových aplikáciách.
 
-## Parametre operačných pamätí
+## Operačné pamäte
+
+Operačné pamäte RAM (Random Access Memory) sú dočasné úložiská, ktoré počítače používajú na rýchle čítanie a zápis dát potrebných pre aktuálne spustené úlohy a aplikácie. Tieto pamäte umožňujú priamy prístup k ľubovoľným dátam v pamäti, čo zvyšuje výkon a efektivitu systému.
+
+### Parametre
 
 **Typy pamäte**:
 
