@@ -9,6 +9,8 @@
 
 ## Princíp symetrického šifrovania DES, IDEA
 
+Symetrické šifrovanie je metóda šifrovania, pri ktorej sa na šifrovanie aj dešifrovanie používa ten istý kľúč. Bezpečnosť komunikácie závisí od toho, ako dobre je tento kľúč chránený a uchovávaný v tajnosti medzi zúčastnenými stranami.
+
 **DES (Data Encryption Standard)**
 
 - **Princíp**: Symetrický šifrovací algoritmus, ktorý používa 56-bitový kľúč na šifrovanie 64-bitových blokov dát cez 16 kôl permutácií a substitúcií.
