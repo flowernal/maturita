@@ -26,7 +26,7 @@
 
 **MBR (Master Boot Record)**
 
-- **Definícia**: Tradičný formát tabuľky rozdelenia diskov na pevných diskoch, obsahuje zavádzač a tabuľku rozdelenia disku.
+- **Definícia**: Tradičný formát tabuľky rozdelenia oddielov na pevných diskoch, obsahuje zavádzač a tabuľku rozdelenia disku.
 - **Vlastnosti**: Podpora pre disky do 2 TB, limit 4 primárne oddiely.
 
 **GPT (GUID Partition Table)**
